@@ -1,9 +1,11 @@
 {
-  "name": "custom-extension",
-  "version": "0.0.0",
-  "description": "jsreport studio extension starter kit",
+  "name": "jsreport-xlsx-report",
+  "version": "0.1.0",
+  "description": "jsreport recipe rendering xlsx report",
   "keywords": [
-    "jsreport"
+    "jsreport",
+    "xlsx",
+    "report"
   ],
   "scripts": {
     "build": "jsreport-studio-build",
@@ -24,13 +26,14 @@
   },
   "license": "MIT",
   "dependencies": {},
-  "author": "Jan Blaha",
+  "author": "Alexandr Sannikov",
   "devDependencies": {
     "@jsreport/studio-dev": "3.0.1",
     "standard": "16.0.3"
   },
   "files": [
     "lib",
+    "static",
     "studio",
     "index.js",
     "jsreport.config.js"
