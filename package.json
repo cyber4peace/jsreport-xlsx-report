@@ -1,6 +1,6 @@
 {
   "name": "jsreport-xlsx-report",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "jsreport recipe rendering xlsx report",
   "keywords": [
     "jsreport",
