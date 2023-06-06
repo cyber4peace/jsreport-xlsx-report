@@ -25,7 +25,9 @@
     }
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "msexcel-builder-extended": "0.0.8"
+  },
   "author": "Alexandr Sannikov",
   "devDependencies": {
     "@jsreport/studio-dev": "3.0.1",
